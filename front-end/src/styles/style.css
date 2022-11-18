@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cart-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.cart-text {
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-size: small;
+}
+
+.logo {
+  font-size: xx-large;
+  font-weight: bold;
+  background: linear-gradient(to right, red, yellow);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.card-text {
+  font-family: "Rubik", sans-serif;
+}
+
+.to-top {
+  left: 95% !important;
+  line-height: 35px;
+  width: 40px;
+  height: 40px;
+}
